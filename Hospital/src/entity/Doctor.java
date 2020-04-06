@@ -6,7 +6,7 @@ public class Doctor {
 
 	String doctorName;
 
-	double salary;
+	double salary
 
 	public int getDoctorId() {
 		return doctorId;
